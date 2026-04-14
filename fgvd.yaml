@@ -1,0 +1,7 @@
+path: /home/user/obdet/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: vehicle
